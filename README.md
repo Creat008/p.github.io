@@ -2,4 +2,4 @@
   
 <h3>Undergraduate Student<h3>
 <h4>School of Continuing Education <h4>
-<h4>Jinan University<h4>
+<h4>JNU<h4>
