@@ -6,5 +6,10 @@
 <a href="https://jyxycj.jnu.edu.cn/cms/">Undergraduate Student</a>
 <h3>
   
-<h4>School of Continuing Education <h4>
-<h4>JNU暨南大学<h4>
+<h4>
+  <a href="https://jyxycj.jnu.edu.cn/cms/">Undergraduate Student</a>
+  <h4>
+    
+<h4>
+  <a href="https://www.jnu.edu.cn/">JUN暨南大学</a>
+  <h4>
