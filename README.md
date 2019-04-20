@@ -13,3 +13,5 @@
 <h4>
   <a href="https://www.jnu.edu.cn/">JUN暨南大学</a>
   <h4>
+
+<img src="/images/logo.png"  width="200" height="45" />
